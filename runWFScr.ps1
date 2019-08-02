@@ -1,6 +1,7 @@
 #
 # powershell script for transmitting
 # command files into WinFIOL channels
+# # require WinFIOL installed
 #
 
 $logfile = "powershell.log"
